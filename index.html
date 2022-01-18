@@ -11,6 +11,7 @@ layout: default
           <i class="fa fa-calendar"></i> {{ current.dates }} <i class="fa fa-map-marker"></i> {{ current.location }}
           {% if current.twitter != nil %}<a href="https://www.twitter.com/{{current.twitter}}"><i class="fa fa-twitter"></i>{{current.twitter}}</a>{% endif %}
           {% if current.status != nil %}<i class="fa fa-bell"></i> {{current.status}}{% endif %}
+          {% if current.paper != nil %}<i class="fa fa-pencil-square"></i> <a href="{{current.paper}}"></a>{% endif %}
       </li>
     {% endfor %}
   </ul>
