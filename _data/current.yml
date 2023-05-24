@@ -190,6 +190,13 @@
   twitter: ministryoftest
   status: <a href="https://www.ministryoftesting.com/events/testbash-uk-2023?utm_medium=web&utm_source=testingconferences">Super Early Bird Registration is Open until May 31, 2023</a>
 
+- name: TestFlix 2023 - Software Testing Conference
+  location: Online
+  dates: "September 23-24, 2023"
+  url: https://www.thetesttribe.com/testflix-2023/
+  twitter: the_test_tribe 
+  status: Registration is Open and Free
+
 - name: "QA: Challenge Accepted 2023"
   location: Sofia, Bulgaria and Online
   dates: "October 1, 2023"
